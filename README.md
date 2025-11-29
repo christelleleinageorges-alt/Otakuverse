@@ -37,4 +37,4 @@ Une communaute ou se melangent nos ideaux, nos reves et nos passions
 # Prototype Figma
 https://www.figma.com/design/rd4vMrjihMy5W5J2anmGVX/Sans-titre?node-id=0-1&t=ssfrkT5NcSBMFPNL-1
 
-<img src="iPhone 16 Pro Max - 1.png" width=200>  <img src="iPhone 16 Pro Max - 10.png" width=200>  <img src="iPhone 16 Pro Max - 3.png" width=200>  <img src=" iPhone 16 Pro Max - 5.png" width=200>  <img src="Map.png" width=200>  <img src="Liste Alerte.png" width=200>  <img src="Manifestation.png" width=200>
+<img src="iPhone 16 Pro Max - 1.png" width=200>  <img src="iPhone 16 Pro Max - 10.png" width=200>  <img src="iPhone 16 Pro Max - 3.png" width=200>  <img src=" iPhone 16 Pro Max - 5.png" width=200>  <img src="iPhpone 16 Pro Max 6.png" width=200>  <img src="Liste Alerte.png" width=200>  <img src="Manifestation.png" width=200>
